@@ -1,0 +1,15 @@
+C:\Mon_Code\Minimum element\obj\Debug\net7.0\Minimum element.csproj.AssemblyReference.cache
+C:\Mon_Code\Minimum element\obj\Debug\net7.0\Minimum element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Minimum element\obj\Debug\net7.0\Minimum element.AssemblyInfoInputs.cache
+C:\Mon_Code\Minimum element\obj\Debug\net7.0\Minimum element.AssemblyInfo.cs
+C:\Mon_Code\Minimum element\obj\Debug\net7.0\Minimum element.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Minimum element\bin\Debug\net7.0\Minimum element.exe
+C:\Mon_Code\Minimum element\bin\Debug\net7.0\Minimum element.deps.json
+C:\Mon_Code\Minimum element\bin\Debug\net7.0\Minimum element.runtimeconfig.json
+C:\Mon_Code\Minimum element\bin\Debug\net7.0\Minimum element.dll
+C:\Mon_Code\Minimum element\bin\Debug\net7.0\Minimum element.pdb
+C:\Mon_Code\Minimum element\obj\Debug\net7.0\Minimum element.dll
+C:\Mon_Code\Minimum element\obj\Debug\net7.0\refint\Minimum element.dll
+C:\Mon_Code\Minimum element\obj\Debug\net7.0\Minimum element.pdb
+C:\Mon_Code\Minimum element\obj\Debug\net7.0\Minimum element.genruntimeconfig.cache
+C:\Mon_Code\Minimum element\obj\Debug\net7.0\ref\Minimum element.dll
